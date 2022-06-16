@@ -5,7 +5,7 @@ Insert and select statments in Python by using pandas.
 
 <p style="text-align:center">
 <img src="https://upload.turkcewiki.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100" > 
-<img src="https://assets.stickpng.com/images/58481021cef1014c0b5e494b.png" width="200" >
+<img src="https://www.gtech.com.tr/wp-content/uploads/2020/09/mongodb-nedir.png" width="200" >
 <img src="https://miro.medium.com/proxy/1*i1d88Q8NNrRv6kjf7Ssw4g.png" width="200">
 <img src="https://miro.medium.com/max/1400/1*BmvPfSSm2G8C-khX1rhCGg.png" width="200">
 <img src="https://devnot.com/wp-content/uploads/2017/09/docker-compose.jpg" width="200" >
